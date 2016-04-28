@@ -49,3 +49,7 @@ git pull https://github.com/jesusiniguez/Iniguez_Bayon_Aviles RamaAlumno2 Para u
 git checkout master y vuelvo al master
 
 git merge RamaAlumno2 master Une las 2 ramas en master y hace la fusion "fast forward" sin conflictos
+
+Ejercicio 6
+
+git whatchanged --format=full
