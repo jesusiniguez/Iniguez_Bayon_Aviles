@@ -59,13 +59,24 @@ Ejercicio 7
 Ángel: yo como alumno2 he realizado mi parte muy pronto y no ha dado error, pero he vuelto a hacer y ha salido que había un error y que merge no sabía como solucionarlo, me ha indicado que lo solucionara a mano y así lo hemos hecho.
 
 Ejercicio 8
+
 git add pb.c 
+
 git commit -m "poniendo favorites"
+
 git push https://github.com/jesusiniguez/Iniguez_Bayon_Aviles master
 
 Ejercicio 9
 
 Ejercicio 10
+
+git branch
+
+git ls-remote --heads https://github.com/jesusiniguez/Iniguez_Bayon_Aviles
+
+git push https://github.com/jesusiniguez/Iniguez_Bayon_Aviles :RamaAlumno2
+
+Para borrar la rama local uso branch -d RamaAlumno2
 
 Ejercicio 11
 
