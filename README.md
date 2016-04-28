@@ -56,6 +56,8 @@ git whatchanged --format=full
 
 Ejercicio 7
 
+Ángel: yo como alumno2 he realizado mi parte muy pronto y no ha dado error, pero he vuelto a hacer y ha salido que había un error y que merge no sabía como solucionarlo, me ha indicado que lo solucionara a mano y así lo hemos hecho.
+
 Ejercicio 8
 git add pb.c 
 git commit -m "poniendo favorites"
