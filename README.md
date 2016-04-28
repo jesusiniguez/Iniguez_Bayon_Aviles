@@ -53,3 +53,7 @@ git merge RamaAlumno2 master Une las 2 ramas en master y hace la fusion "fast fo
 Ejercicio 6
 
 git whatchanged --format=full
+
+Ejercicio 7
+
+Ejercicio 8
