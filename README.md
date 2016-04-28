@@ -68,6 +68,28 @@ git push https://github.com/jesusiniguez/Iniguez_Bayon_Aviles master
 
 Ejercicio 9
 
+Cambiamos a la rama master y realizamos la fusión de la ramaAlumno2 con la rama master:
+
+git checkout master
+
+git merge ramaAlumno2
+
+A continuación realizamos los cambios en el codigo y lo añadimos al repositorio
+
+gedit pb.c
+
+git add . 
+
+git commit -m "Comentario sobre la función de probabilidad"
+
+Por ultimo subimos los cambios realizados:
+
+git push https://github.com/jesusiniguez/Iniguez_Bayon_Aviles.git master
+
+Para ver la cantidad de commits realizados entre los diferentes miembros del grupo introducimos:
+
+git shortlog -s -n
+
 Ejercicio 10
 
 git branch
