@@ -57,6 +57,9 @@ git whatchanged --format=full
 Ejercicio 7
 
 Ejercicio 8
+git add pb.c 
+git commit -m "poniendo favorites"
+git push https://github.com/jesusiniguez/Iniguez_Bayon_Aviles master
 
 Ejercicio 9
 
