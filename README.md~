@@ -125,3 +125,7 @@ git pull https://github.com/jesusiniguez/Iniguez_Bayon_Aviles.git master
 
 Ejercicio 13
 
+Para comprimir se aplica git archive HEAD(para indicar que sea la actual) --format=zip Comprimido.zip
+
+con esto compactamos todo lo que hay en el repositorio.
+
