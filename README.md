@@ -110,5 +110,18 @@ y lo hacemos tanto para master como para RamaAlumno2
 
 Ejercicio 12
 
+Para ver la información sobre el entorno de trabajo con respecto al repositorio con el que estamos trabajando usamos la siguiente orden:
+
+git remote show https://github.com/jesusiniguez/Iniguez_Bayon_Aviles.git
+
+Como la rama master esta desactualizada, la actualizamos usando el siguiente comando:
+
+git checkout master
+
+A continuación realizamos un pull y comprobamos el contenido de la rama con ls
+
+git pull https://github.com/jesusiniguez/Iniguez_Bayon_Aviles.git master
+
+
 Ejercicio 13
 

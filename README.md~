@@ -102,6 +102,12 @@ Para borrar la rama local uso branch -d RamaAlumno2
 
 Ejercicio 11
 
+git cherry --help para encontrar si hay algo que añadir a la instrucción, una vez que se ve usamos:
+
+	git cherry -v "Nombre de la rama"
+
+y lo hacemos tanto para master como para RamaAlumno2
+
 Ejercicio 12
 
 Ejercicio 13
