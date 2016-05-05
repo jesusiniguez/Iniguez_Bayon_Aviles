@@ -1,7 +1,11 @@
 # Iniguez_Bayon_Aviles
 Ejercicio 1
 
-Jesús 
+He realizado los pasos del ejercisio 1, concretamente:  
+Accede a tu cuenta en GitHub y crea un nuevo repositorio. El nombre del repositorio puede ser  el  que  queráis,  a  lo  largo  de  las  prácticas  se  va  a  suponer  que  el  nombre  escogido es: “Apellido1(alumno1)_Apellido1(alumno2)”,  y  en  su  descripción  incluye  la  frase: 
+“Pareja de prácticas  formada  por alumno1 y alumno2” e indica que  comience este repositorio  con  un fichero  README.  Finalmente invita  a tu  compañero  al  repositorio  y  también  al  usuario lorgut.
+
+Tras ello me he limitado a escribir en mi memoria "Jesús", porque me parecía un comentario bastante apropiado para la tarea realizada, más la insistencia de mis compañeros me ha obligado a escribir esta memoria ligeramente más completa con la que no estoy del todo de acuerdo.
 
 Ejercicio 2
 
