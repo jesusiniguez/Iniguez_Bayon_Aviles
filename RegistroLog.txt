@@ -1,0 +1,197 @@
+commit ef7faee764e820ca8a2794dc52a25ebe909e6c02
+Author: Angel Bayón Romero <angelluis.bayonromero@alum.uca.es>
+Date:   Thu May 5 16:26:02 2016 +0200
+
+    Actualizando zip
+
+commit 83a8bae84616f24d88f71799251d3bf7806ae872
+Author: jesusiniguez <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu May 5 16:25:03 2016 +0200
+
+    Delete ridmi temporal
+
+commit c7a0ecf3fa5243a11a4e9ebd93b2d76a54f8ec7e
+Merge: 1bc39cc b1f03eb
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu May 5 16:20:59 2016 +0200
+
+    Obteniendo versión de Jaime del ridmi y fusionandola
+
+commit 1bc39cc650d4f3f114b4a68fd9f74ee8b4c978e1
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu May 5 16:20:54 2016 +0200
+
+    Modificando adecuadamente el ridmi del ejercicio 1 pues mis compañeros no lo consideraban correcto
+
+commit b1f03eb98cce17a7d50831cebfd30f66b8b9443f
+Author: Jaime <javilesbohorquez@gmail.com>
+Date:   Thu May 5 16:18:16 2016 +0200
+
+    Actualizando el README.md
+
+commit 936ac0eff9143fcd257749861b934a9de0b4ee7f
+Author: Angel Bayón Romero <angelluis.bayonromero@alum.uca.es>
+Date:   Thu May 5 16:13:41 2016 +0200
+
+    Comentarios del ejercicio 13
+
+commit 0650d214a6c6e56ef441a1d9adc7d3da7b2f76de
+Author: Jaime <javilesbohorquez@gmail.com>
+Date:   Thu May 5 15:56:56 2016 +0200
+
+    Actualizando el README.md ejercicio 12
+
+commit 6abe34f0f549b538920f7ab30b10e1b67d691a55
+Author: Angel Bayón Romero <angelluis.bayonromero@alum.uca.es>
+Date:   Thu May 5 15:52:07 2016 +0200
+
+    Añadiendo al README.md los comentarios del ejercicio 11
+
+commit 69363a572aebeea9389f16b4758fca25206871b5
+Merge: 11e590f eb281bb
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 17:44:13 2016 +0200
+
+    Merge branch 'master' of https://github.com/jesusiniguez/Iniguez_Bayon_Aviles
+
+commit 11e590f346f588313db28b4222560f8559578109
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 17:44:09 2016 +0200
+
+    cambios en el ridmi
+
+commit eb281bbd42dc1e5909a0ad9d14f6b92e0cf86679
+Author: Jaime <javilesbohorquez@gmail.com>
+Date:   Thu Apr 28 17:36:31 2016 +0200
+
+    Actualizando el ridmi
+
+commit 901890c59f30c01a357805bdaa866e0d7fbb3d5a
+Merge: c866604 5192994
+Author: Jaime <javilesbohorquez@gmail.com>
+Date:   Thu Apr 28 17:30:33 2016 +0200
+
+    Merge branch 'master' of https://github.com/jesusiniguez/Iniguez_Bayon_Aviles
+
+commit 5192994be2910ff73f6f1b61f2b0a2706852f1da
+Author: jesusiniguez <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 17:26:10 2016 +0200
+
+    Update README.md
+
+commit 4ef642bf3433627c1ef8fbcfcd9864ad94151eea
+Merge: e63d6cb 603d40d
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 17:24:54 2016 +0200
+
+    Merge branch 'master' of https://github.com/jesusiniguez/Iniguez_Bayon_Aviles
+
+commit c8666046c499c52fdfadda4103bf0a5bf0382d40
+Author: Jaime <javilesbohorquez@gmail.com>
+Date:   Thu Apr 28 17:24:37 2016 +0200
+
+    Comentario sobre la función de probabilidad
+
+commit 603d40d4f50bb16ace64529b4164f0ce7d3de8f5
+Author: Angel Bayón Romero <angelluis.bayonromero@alum.uca.es>
+Date:   Thu Apr 28 17:22:58 2016 +0200
+
+    Ejercicio 7 comentado
+
+commit e63d6cb846513015a2f39f3dc8c1fe5a020eae05
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 17:22:48 2016 +0200
+
+    ejercicio8 ridmi
+
+commit 2208e3cce89f6e7fc6538353a401e9bdc40a2138
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 17:12:49 2016 +0200
+
+    poniendo favorites
+
+commit 6ab199261f037feb77bb15bf1f6281c8d2c19f5a
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 17:10:54 2016 +0200
+
+    añadiendo numeros de ejercicios pa que al hacer pushes no pete esto
+
+commit b648bfd9cd1f590a4abc9c7dd1713a93af60cb03
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 17:10:46 2016 +0200
+
+    añadiendo numeros de ejercicios pa que al hacer pushes no pete esto
+
+commit 5c5ed5ab190419622bb8beb9f85ec685698fa1ab
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 17:01:53 2016 +0200
+
+    Ejercicio6
+
+commit df04a66a1ba11f6a383b4765de2a5136b8caf54f
+Merge: 3125c46 4dcefe4
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 16:49:35 2016 +0200
+
+    arreglando la fakin memoria
+
+commit 3125c46f37e986ab5231dc965f48bee7dbd8bb2a
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 16:47:15 2016 +0200
+
+    Comentarios y ridmi
+
+commit 4dcefe43f86898cb48d19a4173855aa4b84e8571
+Author: JaimeAB07 <javilesbohorquez@gmail.com>
+Date:   Thu Apr 28 16:42:32 2016 +0200
+
+    Update README.md
+
+commit bbbcf31f4124ad0b01844d540a5b1188b0ab9d99
+Merge: 0f447de 6a573ea
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 16:33:29 2016 +0200
+
+    Merge branch 'RamaAlumno2' of https://github.com/jesusiniguez/Iniguez_Bayon_Aviles into RamaAlumno2
+
+commit 6a573ea4b877adc9ce823f755859fc75dc782251
+Author: Angel Bayón Romero <angelluis.bayonromero@alum.uca.es>
+Date:   Thu Apr 28 16:29:41 2016 +0200
+
+    Función: My_sort_func
+
+commit 0f447de75f55f0b2fcd3f564c07aa07ba4daaaaf
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 16:29:28 2016 +0200
+
+    ridmi es ahora la memoria
+
+commit ed9e28650d880d7c930d57382e4e66fed175d118
+Author: jesusiniguez <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 16:23:30 2016 +0200
+
+    Update README.md
+
+commit 89c626da77a36aff8f8b397dedef1fa4dbb58d57
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 15:53:04 2016 +0200
+
+    poniendo surmakefile
+
+commit 615482539b0afcec5ee1e351210e6759017cee68
+Author: Jesus <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 28 15:51:01 2016 +0200
+
+    Añadiendo argumento-favorite waaaaat
+
+commit 9a84d1790d0d6bfc7d8fd74a1c8dc96399feab12
+Author: Angel Bayón Romero <angelluis.bayonromero@alum.uca.es>
+Date:   Thu Apr 21 17:40:54 2016 +0200
+
+    Fichero pb.c añadido
+
+commit ea9d5d559fdd47e31e30efe79088c247e27ee5f1
+Author: jesusiniguez <jesus.iniguezgarcia@alum.uca.es>
+Date:   Thu Apr 21 17:20:04 2016 +0200
+
+    Initial commit
